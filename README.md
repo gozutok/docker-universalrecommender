@@ -3,7 +3,7 @@ Docker container for PredictionIO + Universal Recommender - ActionML.
 
 Click to get more info about [ActionML - Universal Recommender](http://actionml.com/docs/ur) and [PredictionIO](https://prediction.io)
 
-[![Docker build](http://dockeri.co/image/gozutok/universalrecommender)](https://registry.hub.docker.com/u/gozutok/universalrecommender````/)
+[![Docker build](http://dockeri.co/image/gozutok/universalrecommender)](https://registry.hub.docker.com/u/gozutok/universalrecommender/)
 
 ### How to use?
 1. Create docker container.
